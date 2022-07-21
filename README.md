@@ -5,4 +5,4 @@ Write a javascript code that prints out your name, height, and country on the sc
 
 
 #### GitHub page
-https://thiswhiney.github.io/first_js_task/
+https://Whiney96.github.io/first_js_task/
